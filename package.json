@@ -1,0 +1,21 @@
+{
+  "name": "111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "csv-writer": "^1.6.0",
+    "mocha": "8.0.1",
+    "needle": "^2.5.0",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xlsx-populate": "^1.21.0"
+  },
+  "devDependencies": {
+    "async": "^3.2.0",
+    "recursive-readdir": "^2.2.2"
+  }
+}
